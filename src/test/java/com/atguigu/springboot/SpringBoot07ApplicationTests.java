@@ -11,6 +11,7 @@ public class SpringBoot07ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("您好！");
 	}
 
 }
